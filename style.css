@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+
+.heading1 {
+    color: #767676;
+}
+
+.heading2 {
+    color: #767676;
+}
+
+.paragraph1 {
+    color: #FFFFFF;
+}
+
+.heading3 {
+    color: #767676;
+}
+
+.paragraph2 {
+    color: #FFFFFF;
+}
+
+.heading4 {
+    color: #767676;
+}
+
+.heading5 {
+    color: #767676;
+}
+
+.paragraph3 {
+    color: #FFFFFF;
+}
+
+.heading6 {
+    color: #767676;
+}
+
+.paragraph4 {
+    color: #FFFFFF;
+}
+
+body {
+    background-image: url(img.2.png);
+    background-size: cover;
+}
